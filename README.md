@@ -39,3 +39,7 @@ https://github.com/stanford-futuredata/ColBERT
 
 nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.
 https://github.com/karpathy/nanoGPT
+
+https://textvis.lnu.se/
+
+https://docs.argilla.io/en/docs-new_setfit_tutorial/tutorials/notebooks/training-textclassification-setfit-sentiment.html
