@@ -37,4 +37,5 @@ Generating Human-level Text with Contrastive Search in Transformers - https://hu
 ColBERT is a fast and accurate retrieval model, enabling scalable BERT-based search over large text collections in tens of milliseconds.
 https://github.com/stanford-futuredata/ColBERT
 
-
+nanoGPT: The simplest, fastest repository for training/finetuning medium-sized GPTs.
+https://github.com/karpathy/nanoGPT
