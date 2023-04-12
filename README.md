@@ -31,3 +31,5 @@ There are several word embedding methods which can be divided into two major cat
 
 
 Bert Explained - https://huggingface.co/blog/bert-101
+
+Generating Human-level Text with Contrastive Search in Transformers - https://huggingface.co/blog/introducing-csearch
