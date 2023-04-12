@@ -28,3 +28,6 @@ There are several word embedding methods which can be divided into two major cat
 𝗥𝗼𝗕𝗘𝗥𝗧𝗮: This is built on BERT and modifies key hyperparameters, removing the next-sentence pretraining objective and training with much larger mini-batches and learning rates.
 
 𝗔𝗟𝗕𝗘𝗥𝗧: This is a parameter-reduction techniques to lower memory consumption and increase the training speed of BERT.
+
+
+Bert Explained - https://huggingface.co/blog/bert-101
